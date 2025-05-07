@@ -10,8 +10,8 @@ Cada trabajo práctico se encuentra organizado en su propia carpeta.
 
 Trabajos Practicos Realizados:
 - `TP3-Condicionales-Serafini`
-- `TP4-Estrucuras-Repetitivas-Serafini` en proceso
-- Proximamente
+- `TP4-Estrucuras-Repetitivas-Serafini`
+- `Listas`
 
 ## Contenido
 
